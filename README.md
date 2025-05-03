@@ -3,6 +3,7 @@
 Welcome to my **DSA Topic-Wise Practice** repository!  
 This repo contains my solutions to problems from **Coder Army's DSA Sheet**, organized by topics. I’m on a mission to **master Data Structures and Algorithms** and use this space to **track my progress, share my solutions, and document my learnings**. 🚀
 
+DSA Sheet Link - https://docs.google.com/spreadsheets/d/1CpAbutr7b_i6AUrUX1YtZCLjFq-_JpLyu8t28tN6XcQ/edit?usp=sharing
 ---
 
 ## 🎯 Purpose
@@ -53,3 +54,13 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ritik354/) for **daily
 
 Happy Coding! 🚀  
 *Every line of code is a step closer to becoming a better problem solver.*
+
+## Q8 - 
+
+## Problem -
+
+## Code
+```cpp
+
+```
+## Time Complextiy :- O(n) 
